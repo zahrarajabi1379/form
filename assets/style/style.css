@@ -1,0 +1,29 @@
+#demo{
+    font-size: 20px;
+    color: aquamarine;
+}
+.btnDelete{
+    width: 60px;
+    margin: 0 15px;
+    border-radius: 5px;
+    box-shadow: 4px 5px 5px #e6adc9;
+    background-color: crimson;
+    color: white;
+}
+.btnUpdate{
+    width: 60px;
+  box-shadow: 4px 5px 5px #ade6bc;
+    border-radius: 5px;
+    background-color: rgb(19, 102, 10);
+    color: white;
+}
+.btnDelete:hover{
+    background-color: rgb(255, 0, 153);
+}
+.btnUpdate:hover{
+    background-color: rgb(14, 204, 109);
+}
+.btn{
+    background-color: darkseagreen;
+    color: white;
+}
